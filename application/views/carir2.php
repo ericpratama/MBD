@@ -23,7 +23,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="px-4 nav-item active text-center" style="font-weight:700;color: black">
-                            <a class="nav-link" href="#">Shop <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="#">SHOP AJA DAH <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="px-4 nav-item active text-center" style="font-weight:700; color: black">
                             <a class="nav-link" href="#">Massdrop Made</a>
